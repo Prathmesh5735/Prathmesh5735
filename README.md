@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathmesh5735
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Full Stack Development
+- 🌱 I’m currently learning ... Front-End Developing
 - 📫 How to reach me ... Insta handle = prathmeshchaudhari67
 
 <!---
