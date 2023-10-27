@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prathmesh5735
+- 👋 Hi, I’m @Prathmesh
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Front-End Developing
 - 📫 How to reach me ... Insta handle = prathmeshchaudhari67
