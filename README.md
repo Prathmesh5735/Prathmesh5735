@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prathmesh
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Full Stack Developing
-- 📫 How to reach me ... Insta handle = prathmeshchaudhari67
+- 📫 How to reach me ... email = prathmeshchaudhari36@gmail.com
 - 🌍 Want to rome around the world
 
 <!---
